@@ -1,3 +1,62 @@
-# Hello github pages !
+![logo](https://bkimg.cdn.bcebos.com/pic/79f0f736afc379310a55eedf688da04543a98326bba6?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto)
 
-## This is my first website, I love it !
+
+
+> 
+>
+>  我叫**社一子伍**，今年刚满12岁😊，在2019年12月加入强棒，来自美丽的四川凉山🌞
+>
+> 
+
+![如今成都人心目中的大凉山    杨琳 摄.jpg](http://www.lsz.gov.cn/jrls/zfgzzl/ggkf/201908/W020190830335442683888.jpg)
+
+> 
+>
+> 我是一名可爱的彝族姑娘，这是我们民族的传统服饰，是不是很好看呢？🌼
+>
+> 
+
+[![6Jr400.jpg](https://s3.ax1x.com/2021/03/10/6Jr400.jpg)](https://imgtu.com/i/6Jr400)
+
+> 
+>
+> 我训练非常刻苦，学习认真，虽然加入强棒的时间不长，但是已经拿过**冠军**🥇了！
+>
+> 
+
+[![6Jyi5T.jpg](https://s3.ax1x.com/2021/03/10/6Jyi5T.jpg)](https://imgtu.com/i/6Jyi5T)
+
+[![6J6pSe.jpg](https://s3.ax1x.com/2021/03/10/6J6pSe.jpg)](https://imgtu.com/i/6J6pSe)
+
+> 
+>
+> 在训练之余，我喜欢画画🎨和积木😍！
+>
+> 
+
+[![6JgtsJ.png](https://s3.ax1x.com/2021/03/10/6JgtsJ.png)](https://imgtu.com/i/6JgtsJ)
+
+[![6JgwIx.png](https://s3.ax1x.com/2021/03/10/6JgwIx.png)](https://imgtu.com/i/6JgwIx)
+
+
+
+可爱的子伍有很好的棒球天赋，相信你今后会成为跟赵丽颖和迪丽热巴一样厉害的人呦！❤️
+
+**我们一起来为子伍加油打气吧！**❤️❤️❤️
+
+
+
+
+
+
+
+***
+
+
+
+### 强棒介绍
+
+```
+	强棒基地由前国家棒球队队长孙岭峰与爱心人士联合筹资建设，创建中国第一支公益棒球队。基地主要资助对象为全国范围内 7-10 岁困境儿童，通过专业的棒球技能获得职业发展方向和未来的就业机会。截止到 2020 年11月，项目共资助困境儿童80名，其中女孩 26名，多数儿童来自四川大凉山彝族自治州。通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可。
+```
+
